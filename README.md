@@ -1,2 +1,3 @@
 # Address-book
-A simple Address Book application developed in C that allows users to store, search, edit, and manage contact information efficiently. The project provides functionalities such as adding new contacts, viewing existing contacts, searching by name or phone number, updating contact details, and deleting contacts.
+Developed a console-based Address Book Application using C programming to efficiently store and manage contact information. The application allows users to add, search, edit, delete, and display contacts containing details such as Name, Mobile Number, and Email Address. Implemented file handling to permanently save contact data, ensuring persistence even after the program is closed.
+Technologies Used: Advanced C, Structures, Arrays, Strings, Functions, Pointers, File Handling, Standard C Libraries.

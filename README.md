@@ -56,6 +56,7 @@ Each contact contains:
 - Email Address
 
 Example:
+
 Name  : Abhishek
 
 Phone : 9880156153
@@ -72,6 +73,7 @@ Windows (MinGW): addressbook.exe
 
 
 ## 📷 Sample Menu
+
 ========== ADDRESS BOOK ==========
 
 1. Create Contact

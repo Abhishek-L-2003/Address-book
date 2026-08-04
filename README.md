@@ -57,13 +57,17 @@ Each contact contains:
 
 Example:
 Name  : Abhishek
+
 Phone : 9880156153
+
 Email : abhibeatz096@gmail.com
 
 
 ## 🚀 How to Compile
 
 Using GCC: gcc *.c
+
+
 Windows (MinGW): addressbook.exe
 
 
